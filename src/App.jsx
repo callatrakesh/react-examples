@@ -7,7 +7,8 @@ function App() {
   return (
     <>
      <div className='app'>
-        <h1>React First Project</h1>
+        <h1>React Project</h1>
+        <p>Some examples of react js</p>
         <div className="card">
           <div className='count-box'>
             Count is :
